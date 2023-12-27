@@ -1,6 +1,6 @@
 # Prognostic Value of Deep Learning-derived Chest Radiographic Age: A Retrospective, Single-center, External Validation Study
 
-#### Preprocessing: DICOM to png file
+#### Converting DICOM to png format
 
 ### Previous method
 - [Dataset > Image Processing](https://github.com/circ-ml/CXR-Age/tree/main)
