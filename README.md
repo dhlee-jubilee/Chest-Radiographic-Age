@@ -3,7 +3,7 @@
 #### Converting DICOM to png format
 
 ### Previous method
-- [Dataset > Image Processing](https://github.com/circ-ml/CXR-Age/tree/main)
+- [CXR-Age: Dataset > Image Processing](https://github.com/circ-ml/CXR-Age/tree/main)
 
 ---
 ### License
